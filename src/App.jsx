@@ -190,7 +190,7 @@ function App() {
           </button>
         </a>
             <a
-  href="https://rahulshrivastava.dev"
+  href="https://rag.rahulshrivastava.dev"
   target="_blank"
   rel="noreferrer"
 >
